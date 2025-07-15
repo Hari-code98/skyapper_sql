@@ -1,0 +1,22 @@
+{
+    "appAdsId": "ca-app-pub-3940256099942544~3347511713",
+    "adsPriority": "0",
+    "adIDFirstOpenApp": "ca-app-pub-3940256099942544/9257395921",
+    "adIDOpenCommonApp": "ca-app-pub-3940256099942544/9257395921",
+    "adIdAdmobNative1": "ca-app-pub-3940256099942544/2247696110",
+    "adIdAdmobNative2": "ca-app-pub-3940256099942544/2247696110",
+    "adIdFacebookNative1": "",
+    "adIdFacebookNative2": "",
+    "adIdFacebookNativeBanner1": "",
+    "adIdFacebookNativeBanner2": "",
+    "adIdAdmobInterstitial1": "ca-app-pub-3940256099942544/1033173712",
+    "adIdAdmobInterstitial2": "ca-app-pub-3940256099942544/1033173712",
+    "adIdFacebookInterstitial1": "",
+    "adIdFacebookInterstitial2": "",
+    "affiliate_weburl1": "",
+    "affiliate_weburl2": "",
+    "affiliate_weburl3": "",
+    "affiliate_weburl4": "",
+    "nativeclickbeforeaid": "1",
+    "interclickbeforeaid": "1"
+}
